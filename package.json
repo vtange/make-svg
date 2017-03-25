@@ -1,0 +1,15 @@
+{
+  "name": "make-svg",
+  "version": "1.0.0",
+  "description": "takes an image file and make an svg with it",
+  "main": "tiles.js",
+  "dependencies": {
+    "jimp": "^0.2.27"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Tang",
+  "license": "MIT"
+}
